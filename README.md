@@ -24,4 +24,4 @@ A sleek, lightweight web application designed to showcase professional credentia
 ## 🔧 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/Certificates-Library-Digital-Shelf-Tool.git](https://github.com/your-username/Certificates-Library-Digital-Shelf-Tool.git)
+   git clone [https://github.com/meetmansoorali/Certificates-Library-Digital-Shelf-Tool.git](https://github.com/meetmansoorali/Certificates-Library-Digital-Shelf-Tool.git)
