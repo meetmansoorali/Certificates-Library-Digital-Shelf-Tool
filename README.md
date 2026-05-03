@@ -10,7 +10,7 @@ A sleek, lightweight web application designed to showcase professional credentia
 *   **Interactive Modal:** Click any certificate to view a high-resolution version.
 *   **Smooth UX:** Includes a custom-branded loading progress bar on entry.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Used in this app
 *   **HTML5:** Semantic structure.
 *   **CSS3:** Custom properties (CSS variables) for easy skinning and Dark Mode.
 *   **JavaScript (Vanilla):** Light-weight logic for filtering and modal interactions.
